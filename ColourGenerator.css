@@ -1,0 +1,18 @@
+
+div{
+height:110px;
+width: 100%;
+background-color:#46776576;
+color: white;
+}
+
+#button{
+background-color: blueviolet;
+color: white;
+ text-align: center;
+ margin-left: 500px;
+ margin-right: 0px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
